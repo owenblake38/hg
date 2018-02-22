@@ -1,7 +1,5 @@
 # unblocker
 
-This was originally meant as a side project when i was trying to break into the csgo servers and get a karambit :P (it worked lol) but eventually after I found out it's capabilities I transformed it to bypass my school's blocked.com and internet based iBoss phantom. - Sean Kahler
-
 All data is processed and relayed to the client on the fly without unnecessary buffering, making unblocker one of the
 fastest web proxies available.
 
